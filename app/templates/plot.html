@@ -1,0 +1,52 @@
+<html>
+<head>
+</head>
+<body>
+	<div id="chartContainer" style="height: 100%; width: 100%;"></div>
+	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	<!-- <input type="button" onclick="plotGraph()"/> -->
+</body>
+<script>
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: false,
+	exportEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: "Cost J vs Number of Iterations"
+	},
+	axisX:{
+  		title : "Number of Iterations"
+ 	},
+	axisY:{
+  		title : "Cost Function Value"
+ 	},
+	data: [{
+		type: "line", //change type to bar, line, area, pie, etc
+		//indexLabel: "{y}", //Shows y value on all Data Points
+		indexLabelFontColor: "#5A5757",
+		indexLabelPlacement: "outside",
+		dataPoints: [
+		]
+	}]
+		});
+	window.onload = function () {
+		chart.render();
+		plotGraph();
+		console.log('loaded');
+	}
+	function plotGraph(){
+		$.getJSON('http://localhost:5000/plotError', function(data) {
+			var jsonObj = data.J;
+			var count;
+			for(count = 0; count < 5000; count++){
+				var temp2 = jsonObj[count];
+				// var temp3 = temp2-Math.floor(temp2);
+				// var temp = temp3*1;
+				chart.options.data[0].dataPoints.push({y:temp2});
+            }
+			chart.render();
+		});
+	}
+</script>
+</html>

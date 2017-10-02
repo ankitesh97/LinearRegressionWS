@@ -1,0 +1,230 @@
+,Company,model,bought,month,issues,resale
+09-01-16 10:58,Apple,Iphone 5s,22000,10,"Phone used to lag/hang during usage, No issues",12000
+09-01-16 19:46,Apple,Iphone 4,40000,19,No issues,12000
+09-01-16 20:34,Apple,I phone 5,50000,19,Phone used to lag/hang during usage,5000
+09-01-16 22:38,Apple,iphone 4,30000,19,No issues,5000
+09-03-16 23:23,Apple,iPhone 4,20000,19,"Battery used to drain abnormally, No issues",5000
+09-03-16 23:23,Apple,Iphone 4s,45000,28,Phone used to lag/hang during usage,7000
+09-04-16 0:00,Apple,iPhone 4s,27500,28,No issues,3500
+09-04-16 0:53,Apple,Iphone 5,30000,19,No issues,12000
+09-04-16 7:49,Apple,iPhone 5,45500,19,No issues,12000
+09-04-16 8:09,Apple,iPhone 5,45000,28,No issues,15000
+09-04-16 11:25,Apple,iPhone 4s,16700,10,Phone used to lag/hang during usage,7000
+09-04-16 11:27,Apple,iPhone 6,53500,19,Battery used to drain abnormally,15000
+09-04-16 12:21,Apple,Iphone 5,32000,19,Battery used to drain abnormally,11000
+09-04-16 14:15,Apple,Iphone 4S,15500,19,Phone used to lag/hang during usage,5000
+09-04-16 19:53,Apple,Iphone 4S,24000,28,Less memory storage ,6000
+09-07-16 18:03,Apple,Iphone 4S,15500,19,Phone used to lag/hang during usage,5000
+10/18/2016 14:43:27,Apple,iphone 6,44000,4,Battery used to drain abnormally,28000
+10/18/2016 14:44:51,Apple,Iphone SE,45000,4,"Speaker/ Microphone issues, Wi-Fi  or other connectivity issues",21000
+10/18/2016 14:55:39,Apple,iphone 5s,55000,4,Battery used to drain abnormally,35000
+10/18/2016 14:57:21,Apple,iPhone 5C,45000,1,"Battery used to drain abnormally, Compatibility",35000
+10/18/2016 14:57:52,Apple,Iphone 4s,39000,1,Battery used to drain abnormally,29000
+09-01-16 12:10,HTC,Htc 310,9000,10,Phone used to lag/hang during usage,800
+09-01-16 19:48,HTC,Desire 826,25000,19,"Phone used to lag/hang during usage, No issues",13000
+09-01-16 23:35,HTC,Htc desire 816 dual sim,24000,19,Lock button stopped working. Battery wouldnt charge.,4500
+09-01-16 23:36,HTC,Desire U,12000,10,Display problem,1500
+09-02-16 15:46,HTC,HTC One V,19000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",1500
+09-03-16 22:47,HTC,Explorer,8150,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",1500
+09-04-16 1:35,HTC,Htc desire 516,11000,19,Battery used to drain abnormally,3000
+09-04-16 10:40,HTC,HTC Desire ,13000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",1500
+09-04-16 10:40,HTC,HTC One Dual Sim,47000,28,Battery used to drain abnormally,12000
+09-04-16 11:24,HTC,M8,49990,19,"Phone used to lag/hang during usage, Speaker/ Microphone issues",14500
+09-04-16 12:57,HTC,Htc one ,20000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally, Speaker/ Microphone issues",4000
+09-04-16 20:34,HTC,Desire 616,17100,19,"Battery used to drain abnormally, Speaker/ Microphone issues",3500
+10/18/2016 14:40:56,HTC,One V,18000,10,Phone used to lag/hang during usage,6500
+10/18/2016 15:22:12,HTC,Explorer,8000,4,"Phone used to lag/hang during usage, Wi-Fi  or other connectivity issues",3500
+10/18/2016 15:37:26,HTC,One X,32000,4,Speaker/ Microphone issues,21000
+09-01-16 20:13,LG,Nexus5,23000,10,Phone used to lag/hang during usage,13000
+09-01-16 23:22,LG,Optimus,14000,19,Battery used to drain abnormally,0
+09-04-16 19:56,LG,Lg L3 e405,9400,19,Phone used to lag/hang during usage,1800
+10/18/2016 12:44:54,LG,G2,40000,10,Speaker/ Microphone issues,21400
+10/18/2016 14:39:55,LG,G3,35000,4,No issues,15000
+10/18/2016 15:11:06,LG,G3,35000,4,"Speaker/ Microphone issues, Wi-Fi  or other connectivity issues",20000
+10/25/2016 9:11:57,LG,G2,18000,4,Phone used to lag/hang during usage,6500
+10/25/2016 9:15:04,LG,G2 pro,15500,1,Phone used to lag/hang during usage,5500
+10/25/2016 9:15:45,LG,G3,21000,4,No issues,8500
+09-01-16 11:39,Micromax,N25,3990,28,Phone used to lag/hang during usage,300
+09-01-16 20:14,Micromax,Bhul gaya naam,5500,10,Joystick issues,0
+09-01-16 20:18,Micromax,Micromax canvas,10000,28,Battery used to drain abnormally,2000
+09-01-16 20:41,Micromax,Micromax Doodle 3,9000,19,Phone used to lag/hang during usage,0
+09-01-16 20:47,Micromax,Micromax canvas4,7000,19,No issues,1200
+09-02-16 5:37,Micromax,micromax first android,12000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",1000
+09-04-16 14:12,Micromax,micromax A111,10000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",999
+10/18/2016 12:45:44,Micromax,Canvas 2,10000,4,"Phone used to lag/hang during usage, Speaker/ Microphone issues",2500
+10/18/2016 15:04:03,Micromax,Canvas spark 3,8000,1,"Battery used to drain abnormally, Wi-Fi  or other connectivity issues",2500
+10/18/2016 15:38:48,Micromax,Canvas 4,14000,4,"Phone used to lag/hang during usage, Battery used to drain abnormally",7500
+10/18/2016 15:40:10,Micromax,Canvas 4,14000,4,"Phone used to lag/hang during usage, Battery used to drain abnormally",7500
+09-01-16 9:27,Microsoft/Nokia,Nokia 400,1200,28,Wi-Fi  or other connectivity issues,500
+09-01-16 11:32,Microsoft/Nokia,N73,13000,28,Phone used to lag/hang during usage,4500
+09-01-16 17:34,Microsoft/Nokia,lumia520,10000,19,No issues,1200
+09-01-16 18:35,Microsoft/Nokia,Lumia 820,21000,19,display problem ,0
+09-01-16 20:41,Microsoft/Nokia,Lumia 525,10000,19,No issues,0
+09-01-16 20:43,Microsoft/Nokia,Nokia 311,6500,19,No issues,0
+09-01-16 21:15,Microsoft/Nokia,Lumia 520,7000,19,Not too many apps in windows store,0
+09-01-16 21:55,Microsoft/Nokia,c2,1500,19,"Phone used to lag/hang during usage, Speaker/ Microphone issues",200
+09-01-16 22:00,Microsoft/Nokia,Nokia Lumia 620,9500,19,Lack of apps in the Microsoft Store,4000
+09-02-16 15:18,Microsoft/Nokia,5300,5500,19,No issues,700
+09-03-16 22:46,Microsoft/Nokia,N1280,1500,19,No issues,0
+09-04-16 9:38,Microsoft/Nokia,Nokia Asha 200,2500,19,Speaker/ Microphone issues,800
+09-04-16 20:17,Microsoft/Nokia,Nokia c2-02,3000,28,Phone used to lag/hang during usage,0
+10/18/2016 14:44:03,Microsoft/Nokia,X,8000,28,Phone used to lag/hang during usage,1200
+09-01-16 21:10,Microsoft/Nokia,5233,7500,19,No issues,2000
+09-04-16 10:53,Microsoft/Nokia,Asha 305,5000,28,No issues,2000
+09-03-16 22:47,Microsoft/Nokia,Lumia 630,9700,19,No issues,0
+8/31/2016 23:22:10,Motorola,Moto g3,13000,19,Phone used to lag/hang during usage,3500
+09-01-16 12:58,Motorola,Nexus 6P,37500,4,No issues,20000
+09-01-16 22:14,Motorola,moto g,12000,28,Phone used to lag/hang during usage,2500
+09-01-16 22:30,Motorola,Moto G2,14000,10,Phone used to lag/hang during usage,5000
+09-01-16 23:53,Motorola,Moto g 1 gen,14000,10,"Phone used to lag/hang during usage, Battery used to drain abnormally",2500
+09-02-16 15:24,Motorola,Moto G1,12000,28,Phone used to lag/hang during usage,2000
+09-03-16 21:32,Motorola,Moto G3,12999,19,Speaker/ Microphone issues,8000
+09-03-16 23:49,Motorola,Moto g gen 1,14000,28,No issues,4000
+09-04-16 11:22,Motorola,MotoG2,12000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",5000
+09-04-16 11:56,Motorola,Moto e,7000,10,Battery used to drain abnormally,3500
+09-04-16 20:18,Motorola,Moto g2,12999,28,No issues,3500
+09-04-16 21:16,Motorola,Moto G,13000,10,No issues,8000
+10/18/2016 12:42:25,Motorola,Moto G3,13000,4,Phone used to lag/hang during usage,4500
+10/18/2016 14:36:57,Motorola,Moto G2,12000,4,Phone used to lag/hang during usage,4500
+8/23/2016 13:16:29,OnePlus,OnePlus One,22000,19,No issues,12000
+09-02-16 16:43,OnePlus,One plus one,15000,4,Battery used to drain abnormally,9000
+09-04-16 10:47,OnePlus,Oneplus One,21000,19,Heat,11000
+09-04-16 11:40,OnePlus,OnePlus One,19500,10,No issues,11000
+10/18/2016 12:26:50,OnePlus,One,22000,4,Battery used to drain abnormally,15000
+10/18/2016 14:38:58,OnePlus,X,16000,4,"Phone used to lag/hang during usage, Battery used to drain abnormally",7500
+10/18/2016 14:40:24,OnePlus,Two,22500,1,No issues,12500
+10/18/2016 15:21:36,OnePlus,One,21000,4,Speaker/ Microphone issues,9000
+10/25/2016 9:13:34,OnePlus,X,18500,4,No issues,7500
+10/25/2016 9:14:26,OnePlus,Two,23000,1,No issues,8500
+09-03-16 22:49,Other,ZL 551 Other ZenFone,13999,10,"Battery used to drain abnormally, Speaker/ Microphone issues",6000
+09-04-16 9:17,Other,Zemfone 5,13500,10,Battery used to drain abnormally,6000
+10/18/2016 14:07:21,Other,Zenfone 2,12000,1,Wi-Fi  or other connectivity issues,6500
+09-01-16 12:50,Other,Andi 4D,10000,19,Lacked storage,1200
+09-01-16 14:26,Other,Other Zenfone 5,12000,19,DISPLAY ,1500
+09-01-16 17:34,Other,Lava,4200,19,"Phone used to lag/hang during usage, Battery used to drain abnormally, Wi-Fi  or other connectivity issues",400
+09-03-16 23:50,Other,K3 Note,9000,4,Phone used to lag/hang during usage,6000
+10/18/2016 12:43:10,Other,K3 Note,9100,10,Speaker/ Microphone issues,5500
+10/18/2016 14:39:25,Other,Vibe Note,11000,4,No issues,8000
+09-01-16 12:53,Other,Q1100,11500,28,Battery used to drain abnormally,1500
+8/31/2016 23:19:43,Samsung,Galaxy y,7000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",500
+09-01-16 9:27,Samsung,Corby,6000,28,No issues,500
+09-01-16 9:30,Samsung,Samsung Guru,2500,19,No issues,300
+09-01-16 9:39,Samsung,Galaxy S duo,12000,10,"Phone used to lag/hang during usage, Battery used to drain abnormally",2000
+09-01-16 9:44,Samsung,Galaxy Fit,9800,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",500
+09-01-16 9:48,Samsung,Samsung champ,4000,10,Speaker/ Microphone issues,1000
+09-01-16 11:25,Samsung,Galaxy y,7000,28,Phone used to lag/hang during usage,700
+09-01-16 11:26,Samsung,Galaxy Win,15000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",4000
+09-01-16 11:27,Samsung,Galaxy S2,28000,28,"Battery used to drain abnormally, Speaker/ Microphone issues",4500
+09-01-16 11:28,Samsung,Galaxy Ace,9000,28,No issues,1700
+09-01-16 11:30,Samsung,Champ,4000,10,No issues,800
+09-01-16 11:41,Samsung,Ace plus,14999,19,Phone used to lag/hang during usage,1200
+09-01-16 11:46,Samsung,Galaxy s4,18000,10,"Phone used to lag/hang during usage, Battery used to drain abnormally",7000
+09-01-16 11:55,Samsung,Samsung Galaxy S2,28000,28,Phone used to lag/hang during usage,10000
+09-01-16 12:11,Samsung,Galaxy Ace plus,20000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",12000
+09-01-16 12:21,Samsung,GRAND 2,22500,19,Battery used to drain abnormally,7000
+09-01-16 12:25,Samsung,Galaxy Y,8500,19,No issues,900
+09-01-16 13:58,Samsung,Galaxy Y,8000,19,"Phone used to lag/hang during usage, Speaker/ Microphone issues",800
+09-01-16 15:13,Samsung,samsung quattro ,15000,19,Phone used to lag/hang during usage,4000
+09-01-16 16:39,Samsung,galaxy s3,30000,19,No issues,7000
+09-01-16 16:48,Samsung,Galaxy s6,41000,10,Phone used to lag/hang during usage,12000
+09-01-16 17:04,Samsung,Note 2 ,27000,28,Battery used to drain abnormally,6500
+09-01-16 17:22,Samsung,Samsung S duos,12500,28,Phone used to lag/hang during usage,3000
+09-01-16 17:25,Samsung,Galaxy Grand Prime,14600,19,Phone used to lag/hang during usage,4500
+09-01-16 18:15,Samsung,Galaxy Trend,8500,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",2000
+09-01-16 18:42,Samsung,Galaxy Y,9000,19,No issues,800
+09-01-16 18:44,Samsung,Samsung galaxy y,7000,28,Battery used to drain abnormally,700
+09-01-16 19:57,Samsung,A7,27000,4,"Phone used to lag/hang during usage, Battery used to drain abnormally",17500
+09-01-16 20:10,Samsung,Note 3 neo,24000,19,Phone used to lag/hang during usage,8000
+09-01-16 20:27,Samsung,Galaxy Grand 2,18000,28,Phone used to lag/hang during usage,4000
+09-01-16 20:36,Samsung,Grand duos ,18000,28,Phone used to lag/hang during usage,5000
+09-01-16 21:05,Samsung,Samsung star,8500,28,Phone used to lag/hang during usage,2000
+09-01-16 21:44,Samsung,samsung grand,13500,10,No issues,6000
+09-01-16 21:55,Samsung,Galaxy Ace,8000,19,"Phone used to lag/hang during usage, Speaker/ Microphone issues",1200
+09-01-16 22:31,Samsung,Galaxy Y,10000,28,No issues,3000
+09-01-16 23:12,Samsung,samsung galaxy star,7000,28,No issues,500
+09-02-16 12:05,Samsung,Samsung grand 2,22500,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",5500
+09-02-16 15:22,Samsung,Galaxy pop,8000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",800
+09-02-16 16:07,Samsung,galaxy s3,30000,19,No issues,7000
+09-02-16 19:54,Samsung,Grand 2,25000,10,"Phone used to lag/hang during usage, Battery used to drain abnormally",10000
+09-03-16 15:36,Samsung,Galaxy grand,15500,19,Phone used to lag/hang during usage,4000
+09-03-16 22:04,Samsung,samsung s4,20000,1,Phone used to lag/hang during usage,10000
+09-03-16 22:50,Samsung,Samsung S5,28000,19,No issues,12000
+09-03-16 23:00,Samsung,Star,10000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",0
+09-03-16 23:30,Samsung,galaxy y duos ,8500,19,Battery used to drain abnormally,2500
+09-03-16 23:41,Samsung,Samsung s7 edge,60000,4,No issues,45000
+09-03-16 23:42,Samsung,Galaxy S2,28000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",5000
+09-03-16 23:51,Samsung,Sony xperia z2,29000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",1500
+09-03-16 23:55,Samsung,Samsung Grand Quattro,13500,10,Phone used to lag/hang during usage,4000
+09-04-16 0:15,Samsung,Samsung Galaxy Y,8000,28,No issues,900
+09-04-16 0:26,Samsung,Samsung Galaxy Y,7000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",800
+09-04-16 10:41,Samsung,note 2,30000,28,No issues,5500
+09-04-16 10:47,Samsung,Samsung Star Pro,7000,4,Phone used to lag/hang during usage,1100
+09-04-16 11:06,Samsung,Galaxy Grand,19000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",4500
+09-04-16 11:22,Samsung,S6,41500,4,No issues,23500
+09-04-16 11:25,Samsung,Note 2,38500,19,Phone used to lag/hang during usage,12500
+09-04-16 11:41,Samsung,Core 2,15000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally, Display went off on its own",3000
+09-04-16 11:43,Samsung,Grand,17000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally, Display issue",4000
+09-04-16 11:44,Samsung,A7,25000,4,"Phone used to lag/hang during usage, Display went off on its own, had to get display repaired more than 2",7000
+09-04-16 12:03,Samsung,Samsung ace,7500,28,No issues,1400
+09-04-16 12:40,Samsung,Note 2,25000,28,No issues,7000
+09-04-16 15:57,Samsung,Samsung grand quottro,14000,19,Battery used to drain abnormally,4500
+09-04-16 19:21,Samsung,Samsung galaxy S3,65000,19,Phone used to lag/hang during usage,15000
+09-04-16 19:53,Samsung, Galaxy S,9500,10,"Phone used to lag/hang during usage, Battery used to drain abnormally",1200
+09-04-16 19:53,Samsung,Samsung Grand2,15000,28,Phone used to lag/hang during usage,10000
+09-04-16 19:58,Samsung,S5,35000,19,Phone used to lag/hang during usage,13000
+09-04-16 20:41,Samsung,Note,22000,28,Phone used to lag/hang during usage,8000
+09-04-16 21:02,Samsung,Note 4,55000,19,Battery used to drain abnormally,30000
+09-07-16 0:37,Samsung,Samsung galaxy ace ,11000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",1200
+9/15/2016 20:27:51,Samsung,Galaxy Note 2,39000,28,No issues,6000
+10/18/2016 12:31:21,Samsung,Galaxy J2,8000,4,No issues,3500
+10/18/2016 14:37:40,Samsung,Galaxy note 6,48000,4,No issues,32000
+10/18/2016 14:38:19,Samsung,Galaxy S6 Edge,44000,4,No issues,32000
+10/18/2016 14:41:22,Samsung,on5 pro,8000,1,No issues,6500
+10/18/2016 14:41:53,Samsung,on7 pro,10000,4,No issues,7500
+10/18/2016 14:53:42,Samsung,on7,9000,4,No issues,7200
+10/18/2016 14:54:06,Samsung,j7,15500,1,No issues,12000
+10/18/2016 14:55:39,Samsung,j7 prime,18500,1,No issues,15000
+10/18/2016 14:56:27,Samsung,grand 2,15999,4,No issues,8500
+10/18/2016 14:57:47,Samsung,grand neo plus,9999,4,No issues,6500
+10/18/2016 14:58:47,Samsung,s7 edge,56000,4,No issues,42000
+10/18/2016 14:59:21,Samsung,s5,42000,1,No issues,31000
+10/18/2016 15:00:20,Samsung,j3,8999,4,No issues,6500
+10/18/2016 15:07:00,Samsung,j2 6,10000,1,No issues,7500
+10/18/2016 15:08:27,Samsung,j5 6,13500,1,Phone used to lag/hang during usage,10500
+10/18/2016 15:12:14,Samsung,note 5,38000,4,No issues,29500
+10/18/2016 15:13:20,Samsung,Note 7,55000,1,Explosion,45000
+10/18/2016 15:14:23,Samsung,S2,28000,1,Phone used to lag/hang during usage,25000
+10/18/2016 15:17:08,Samsung,Grand duos,18000,1,Phone used to lag/hang during usage,15000
+10/18/2016 15:20:20,Samsung,j7 6,15500,1,No issues,13500
+10/18/2016 15:21:56,Samsung,galaxy on8,16000,1,No issues,13500
+10/18/2016 15:22:51,Samsung,on5,6990,1,Wi-Fi  or other connectivity issues,5800
+10/18/2016 15:23:41,Samsung,core,11500,4,No issues,9500
+10/18/2016 15:26:06,Samsung,Galaxy Tab 2,12000,1,Speaker/ Microphone issues,9000
+10/18/2016 15:27:05,Samsung,Grand Prime,13500,4,Phone used to lag/hang during usage,8800
+09-01-16 9:22,Sony,Xperia U,14700,19,No issues,1000
+09-01-16 11:29,Sony,Xperia C,16800,19,No issues,5000
+09-01-16 21:01,Sony,Xperia C,16500,19,"Phone used to lag/hang during usage, Battery used to drain abnormally, Speaker/ Microphone issues",3000
+09-01-16 21:17,Sony,XperiaE1,8000,28,"Phone used to lag/hang during usage, Battery used to drain abnormally",1000
+09-01-16 21:55,Sony,Xperia C,12000,19,"Phone used to lag/hang during usage, Speaker/ Microphone issues",3500
+09-02-16 22:55,Sony,Xperia Z,23000,28,Phone used to lag/hang during usage,4000
+09-03-16 22:46,Sony,Xperia U,16000,19,Phone used to lag/hang during usage,0
+09-03-16 22:54,Sony,M2,18000,19,Wi-Fi  or other connectivity issues,4500
+09-03-16 23:12,Sony,Xperia m,14000,28,No issues,4000
+09-03-16 23:31,Sony,Xperia zr,17000,19,"Phone used to lag/hang during usage, Wi-Fi  or other connectivity issues",3500
+09-04-16 19:59,Sony,Xperia Z3,40000,10,No issues,12000
+09-04-16 20:03,Sony,Xperia J,18000,19,"Phone used to lag/hang during usage, Battery used to drain abnormally",0
+09-04-16 20:31,Sony,Xperia c,16000,19,"Phone used to lag/hang during usage, No updates",8000
+09-04-16 20:33,Sony,Sony experia J,18000,28,Phone used to lag/hang during usage,4000
+10/18/2016 14:36:25,Sony,Xperia E,14000,4,Phone used to lag/hang during usage,6500
+10/18/2016 14:37:17,Sony,Xperia C,24000,10,Battery used to drain abnormally,9800
+10/18/2016 14:38:14,Sony,Xperia Z,35000,4,"Speaker/ Microphone issues, Wi-Fi  or other connectivity issues",21500
+09-01-16 10:16,Xiaomi,Redmi Note 3,12000,4,No issues,8000
+09-01-16 17:48,Xiaomi,NOTE 1,8000,19,Speaker/ Microphone issues,2000
+09-01-16 20:08,Xiaomi,Redmi 1s,6000,19,Heating,1800
+09-04-16 19:51,Xiaomi,Mi4i,15000,10,Phone used to lag/hang during usage,10000
+10/18/2016 12:30:29,Xiaomi,Redmi 2,6000,1,"Phone used to lag/hang during usage, Speaker/ Microphone issues",3700
+10/18/2016 12:34:51,Xiaomi,Redmi 1S,7000,10,Speaker/ Microphone issues,3500
+10/18/2016 14:39:40,Xiaomi,Redmi Note 3,12000,4,"Phone used to lag/hang during usage, Wi-Fi  or other connectivity issues",5000
+10/18/2016 14:59:26,Xiaomi,Redmi 2,7500,1,"Phone used to lag/hang during usage, Battery used to drain abnormally, Wi-Fi  or other connectivity issues",4000
+10/18/2016 15:37:58,Xiaomi,Redmi note 3,12000,1,"Speaker/ Microphone issues, Wi-Fi  or other connectivity issues",6500
+10/25/2016 9:12:46,Xiaomi,Redmi note,11000,4,No issues,5500

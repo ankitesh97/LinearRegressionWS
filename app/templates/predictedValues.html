@@ -1,0 +1,60 @@
+<html>
+<head>
+  <title>Predicted Values Graph </title>
+</head>
+<body>
+  <body>
+  	<div id="chartContainer" style="height: 100%; width: 100%;"></div>
+  	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  	<!-- <input type="button" onclick="plotGraph()"/> -->
+  </body>
+  <script>
+  var chart = new CanvasJS.Chart("chartContainer", {
+  	animationEnabled: false,
+  	exportEnabled: true,
+  	theme: "light2", // "light1", "light2", "dark1", "dark2"
+  	title:{
+  		text: "The Price graph for {{dataList.company}} {{dataList.phoneModel}} with {{dataList.issue}} issues"
+  	},
+  	axisX:{
+    		title : "Number of Months"
+   	},
+  	axisY:{
+    		title : "Resale Value"
+   	},
+  	data: [{
+  		type: "line", //change type to bar, line, area, pie, etc
+  		indexLabel: "{y}", //Shows y value on all Data Points
+  		indexLabelFontColor: "#5A5757",
+  		indexLabelPlacement: "outside",
+  		dataPoints: [{x:3,y:{{dataList.predictedY[0]}}},
+                   {x:6,y:{{dataList.predictedY[1]}}},
+                   {x:9,y:{{dataList.predictedY[2]}}},
+                   {x:12,y:{{dataList.predictedY[3]}}},
+                   {x:15,y:{{dataList.predictedY[4]}}},
+                   {x:18,y:{{dataList.predictedY[5]}}},
+                   {x:24,y:{{dataList.predictedY[6]}}}
+  		            ]
+  	}]
+  		});
+  	window.onload = function () {
+  		chart.render();
+  		console.log('loaded');
+  	}
+  	function plotGraph(){
+  		// $.getJSON('http://localhost:5000/plotError', function(data) {
+  		// 	var jsonObj = data.J;
+  		// 	var count;
+  		// 	for(count = 0; count < 13000; count++){
+  		// 		var temp2 = jsonObj[count]*10000;
+  		// 		var temp3 = temp2-Math.floor(temp2);
+  		// 		var temp = temp3*1000;
+  		// 		chart.options.data[0].dataPoints.push({y:temp});
+      //         }
+  		// 	chart.render();
+  		// });
+  	}
+  </script>
+</body>
+</html>
