@@ -49,6 +49,7 @@ def accuracy(X, y, model):
 
     y_predicted = predict(X,np.array(model['theta']))
     acc = np.sqrt(1.0*(np.sum(np.square(y_predicted - y)))/len(X))
+
     print "error associated with thi model is "+str(acc)
 
 def predict(X,theta):

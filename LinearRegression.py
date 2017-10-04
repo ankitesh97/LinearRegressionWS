@@ -63,12 +63,16 @@ def costFunc(m,y,y_predicted):
 def calcGradients(X,y,y_predicted,m):
     #apply the formula , this function will return cost with respect to the gradients
     # basically an numpy array containing n_params
-    return pass
+   pass
 
 #this function will update the theta and return it
 def makeGradientUpdate(theta, grads):
     pass
 
+
+#this function will take two paramets as the input
+def predict(X,theta):
+    pass
 
 
 ########################main function###########################################
